@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm MD. Sakib Hasan 👋
+A Cloud Engineer with expertise in AWS services, cloud architecture, and network management. Passionate about designing scalable, secure cloud infrastructures, improving operational efficiency, and seeking opportunities to contribute to innovative cloud-based projects.
 
-<!--
-**shsakib0002/shsakib0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Role:
+- **Junior Executive** at SkyTech Solutions
+  - Spearheading IT support and cloud projects across campaigns like '10 Minute School' and 'Stemz'.
+  - Leading technical support for AWS infrastructure and client solutions.
 
-Here are some ideas to get you started:
+## 🌱 Learning & Certifications:
+- **AWS Certified Cloud Practitioner** (Issued: October 2024)
+- **AWS Technical Essentials**
+- **HCIA-Cloud Computing** (Huawei)
+- **Digital Marketing Certification** (Google)
+- Currently preparing for **AWS Certified Solutions Architect – Associate**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills:
+- **Cloud Technologies**: AWS (EC2, S3, Lambda, VPC, IAM), HCIA Cloud Computing
+- **Security & Networking**: VPC, VPN, Firewalls, IAM
+- **Operating Systems**: Linux, Windows
+- **Automation & Scripting**: Bash, Python
+
+## 📊 Key Projects:
+1. [Edge-Computing-in-the-Cloud-Thesis](https://github.com/shsakib0002/Edge-Computing-in-the-Cloud-Thesis)  
+   *Exploring how to improve latency-sensitive applications using AWS Edge Computing.*
+   
+2. [VPS Automation](#)  
+   *Configuring and automating cloud infrastructure using shell scripts.*
+
+## 📜 Certifications:
+- **AWS Certified Cloud Practitioner**
+- **AWS Technical Essentials**
+- **HCIA-Cloud Computing**
+- **Google Digital Marketing Certification**
+
+## 📫 Get in touch:
+- **LinkedIn**: [md-sakib-hasan](http://linkedin.com/in/md-sakib-hasan-830334224)
+- **Email**: hsakib002@gmail.com
