@@ -23,14 +23,12 @@ A Cloud Engineer with expertise in AWS services, cloud architecture, and network
 1. [Edge-Computing-in-the-Cloud-Thesis](https://github.com/shsakib0002/Edge-Computing-in-the-Cloud-Thesis)  
    *Exploring how to improve latency-sensitive applications using AWS Edge Computing.*
    
-2. [VPS Automation](#)  
-   *Configuring and automating cloud infrastructure using shell scripts.*
 
 ## 📜 Certifications:
 - **AWS Certified Cloud Practitioner**
 - **AWS Technical Essentials**
 - **HCIA-Cloud Computing**
-- **Google Digital Marketing Certification**
+- **Creative It Digital Marketing Certification**
 
 ## 📫 Get in touch:
 - **LinkedIn**: [md-sakib-hasan](http://linkedin.com/in/md-sakib-hasan-830334224)
