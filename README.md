@@ -10,7 +10,7 @@ A Cloud Engineer with expertise in AWS services, cloud architecture, and network
 - **AWS Certified Cloud Practitioner** (Issued: October 2024)
 - **AWS Technical Essentials**
 - **HCIA-Cloud Computing** (Huawei)
-- **Digital Marketing Certification** (Google)
+- **Digital Marketing Certification** (Creative It)
 - Currently preparing for **AWS Certified Solutions Architect – Associate**.
 
 ## 💻 Technical Skills:
